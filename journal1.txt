@@ -1,0 +1,2 @@
+Name: John, Group: GroupA, Age: 20
+Name: Alice, Group: GroupA, Age: 22
